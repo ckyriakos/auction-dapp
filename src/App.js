@@ -48,7 +48,7 @@ class App extends Component {
           //console.log(this.state.input);
     // Get the value from the contract to prove it worked.
     const response = await contract.methods.highestBid().call(); // responses for highestBid
-    const response_1 = await contract.methods.highestBidder.call(); // responses for highestBidder
+    const response_1 = await contract.methods.highestBidder().call(); // responses for highestBidder
 
     // Update state with the result.
     this.setState({ highestBid: response ,highestBidder:response_1,pendingReturns:withdraw_am});
