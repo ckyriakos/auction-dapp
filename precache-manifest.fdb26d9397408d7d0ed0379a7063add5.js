@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7992599414e1cbe26fbdc3b1f96b4bff",
+    "revision": "aaf5f03224afa7585904afef03566a21",
     "url": "/auction-dapp/index.html"
   },
   {
-    "revision": "498616e3c1f700d22092",
-    "url": "/auction-dapp/static/css/main.f083180f.chunk.css"
+    "revision": "de9f76f15927a16a294a",
+    "url": "/auction-dapp/static/css/main.a3487775.chunk.css"
   },
   {
     "revision": "dbd62ae2a43765cf7215",
     "url": "/auction-dapp/static/js/2.2c445e0e.chunk.js"
   },
   {
-    "revision": "498616e3c1f700d22092",
-    "url": "/auction-dapp/static/js/main.ef9f4831.chunk.js"
+    "revision": "de9f76f15927a16a294a",
+    "url": "/auction-dapp/static/js/main.8e53d947.chunk.js"
   },
   {
     "revision": "4335d4238bf3347cf635",
